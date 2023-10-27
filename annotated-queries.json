@@ -1,0 +1,75 @@
+[
+  {"query": "grafana  dashboards  frontend  search  ranking", "files": [
+    "monitoring/definitions/frontend.go"
+  ]},
+  {"query": "smart  search  rules", "files": [
+    "internal/search/smartsearch/smart_search_job.go"
+  ]},
+  {"query": "load  embeddings  indices", "files": [
+    "internal/embeddings/index_storage.go"
+  ]},
+  {"query": "skip files during indexing", "files": [
+
+  ]},
+  {"query": "convert  lang  filters  file  extensions", "files": [
+    "internal/search/query/helpers.go"
+  ]},
+  {"query": "permissions docs", "files": [
+    "doc/admin/permissions/index.md",
+    "doc/admin/permissions/api.md"
+  ]},
+  {"query": "exhaustive  search  db  schema", "files": [
+    "internal/database/schema.json",
+    "internal/search/exhaustive/store/exhaustive_search_jobs.go",
+    "internal/search/exhaustive/store/exhaustive_search_repo_jobs.go"
+  ]},
+  {"query": "symbols  service", "files": [
+    "cmd/symbols/squirrel/service.go",
+    "cmd/symbols/shared/service.go"
+  ]},
+  {"query": "hybrid search", "files": [
+
+  ]},
+
+  {"query":  "user permission syncing", "files":  [
+
+  ]},
+  {"query":  "wildcard tooltip component", "files":  [
+
+  ]},
+  {"query":  "sub-repo permissions embeddings service", "files":  [
+
+  ]},
+  {"query":  "experimental features", "files":  [
+
+  ]},
+  {"query":  "Cody site admin sidepanel", "files":  [
+
+  ]},
+  {"query":  "embeddings no context regexes", "files":  [
+
+  ]},
+  {"query": "InternalDoer", "files": [
+    "internal/httpcli/client.go"
+  ]},
+  {"query": "search options", "files": [
+    "internal/search/backend/index_options.go"
+  ]},
+  {"query": "repository filter", "files": [
+    "internal/search/query/repo_revs.go",
+    "internal/search/query/types.go"
+  ]},
+  {"query": "graphql site user", "files":  [
+    "cmd/frontend/graphqlbackend/schema.graphql"]
+  },
+  {"query": "executor iptables rules", "files": [
+
+  ]},
+  {
+    "query": "indexer images SHAs", "files": [
+
+  ]
+  },
+  {"query": "scip ctags implementation", "files":  []},
+  {"query": "crewjam/saml dependency", "files": []},
+]
